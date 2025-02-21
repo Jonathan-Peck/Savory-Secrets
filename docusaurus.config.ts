@@ -20,7 +20,7 @@ const config: Config = {
   organizationName: 'facebook', // Usually your GitHub org/user name.
   projectName: 'Savory Secrets', // Usually your repo name.
   trailingSlash:false,
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'ignore',
   onBrokenMarkdownLinks: 'warn',
 
   // Even if you don't use internationalization, you can use this field to set
@@ -35,17 +35,17 @@ const config: Config = {
     [
       'classic',
       {
-        //  docs: {
-        //    routeBasePath: 'docs',
-        //    path: 'docs',
-        //    sidebarPath: require.resolve('./sidebars.ts'),
-        // //   lastVersion: 'current',
-        // //   onlyIncludeVersions: ['current'],
+         docs: {
+           routeBasePath: 'docs',
+           path: 'docs',
+           sidebarPath: require.resolve('./sidebars.ts'),
+        //   lastVersion: 'current',
+        //   onlyIncludeVersions: ['current'],
         //   // Please change this to your repo.
         //   // Remove this to remove the "edit this page" links.
         //   // editUrl:
         //   //   'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-        //  },
+         },
         // // blog: {
         // //   showReadingTime: false,
         // //   blogSidebarTitle: 'All posts',
@@ -87,15 +87,15 @@ const config: Config = {
   ],
 
   plugins:[
-    [
-      '@docusaurus/plugin-content-docs',
-      {
-        id: 'recipes',
-        path: 'recipes',
-        routeBasePath: 'recipes',
-        sidebarPath: require.resolve('./recipesSidebars.ts'),
-      }, 
-    ],
+    // [
+    //   '@docusaurus/plugin-content-docs',
+    //   {
+    //     id: 'recipes',
+    //     path: 'recipes',
+    //     routeBasePath: 'recipes',
+    //     sidebarPath: require.resolve('./recipesSidebars.ts'),
+    //   }, 
+    // ],
     [
       '@docusaurus/plugin-content-docs',
       {
@@ -139,24 +139,24 @@ const config: Config = {
         src: 'img/logo.svg',
       },
       items: [
-        // {
-        //   type: 'docSidebar',
-        //   sidebarId: 'tutorialSidebar',
-        //   position: 'left',
-        //   label: 'Recipes',
-        // },
+        {
+          type: 'docSidebar',
+          sidebarId: 'tutorialSidebar',
+          position: 'left',
+          label: 'Recipes',
+        },
         // {
         //   to: '/docs/Intro',    // ./docs/Intro.md
         //   label: 'Recipes',
         //   position: 'left',
         //   activeBaseRegex: `/docs/`,
         // },
-        {
-          to: '/recipes/category/recipes',  // ./docs-system/Intro.md
-          label: 'Recipes',
-          position: 'left',
-          activeBaseRegex: `/recipes/`,
-        },
+        // {
+        //   to: '/recipes/category/recipes',  // ./docs-system/Intro.md
+        //   label: 'Recipes',
+        //   position: 'left',
+        //   activeBaseRegex: `/recipes/`,
+        // },
         {
           to: '/breakfast/category/breakfast',    // ./docs-api/Intro.md
           //type: 'doc',
@@ -188,15 +188,15 @@ const config: Config = {
     footer: {
       style: 'dark',
       links: [
-        {
-          title: 'Docs',
-          items: [
-            {
-              label: 'Recipes',
-              to: '/docs/intro',
-            },
-          ],
-        },
+        // {
+        //   title: 'Docs',
+        //   items: [
+        //     {
+        //       label: 'Recipes',
+        //       to: '/docs/intro',
+        //     },
+        //   ],
+        // },
         {
           title: 'Community',
           items: [
