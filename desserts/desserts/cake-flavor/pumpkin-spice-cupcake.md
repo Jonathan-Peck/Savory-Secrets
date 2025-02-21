@@ -1,0 +1,95 @@
+---
+slug: pumpkin-spice-cupcake
+title: Pumpkin Spice Cupcake
+authors: [cupcake]
+tags: [dessert, ccupcake]
+keywords: [dessert, cupcake]
+---
+
+Pumpkin Spice Cupcake
+<!-- <img src="/img/Creamy-chicken-gnocchi.jpg" alt="Creamy Chicken And Gnocchi Picture" width="800" height="670" /> -->
+
+<!-- truncate -->
+
+```html
+<div class="rating">
+  <label for="rating-1" title="1 star">
+    <input type="radio" id="rating-1" name="rating" value="1">
+    <span class="star">&#9733;</span>
+  </label>
+  <label for="rating-2" title="2 stars">
+    <input type="radio" id="rating-2" name="rating" value="2">
+    <span class="star">&#9733;</span>
+  </label>
+  <label for="rating-3" title="3 stars">
+    <input type="radio" id="rating-3" name="rating" value="3">
+    <span class="star">&#9733;</span>
+  </label>
+  <label for="rating-4" title="4 stars">
+    <input type="radio" id="rating-4" name="rating" value="4">
+    <span class="star">&#9733;</span>
+  </label>
+  <label for="rating-5" title="5 stars">
+    <input type="radio" id="rating-5" name="rating" value="5">
+    <span class="star">&#9733;</span>
+  </label>
+</div>
+
+```
+
+ ★  ★  ★  ★  ★
+
+
+## Ingredients
+- 2¼ cups all-purpose flour
+- 1 teaspoon ground cinnamon
+- ½ teaspoon ground nutmeg
+- ½ teaspoon ground ginger
+- ½ teaspoon ground cloves
+- ½ teaspoon ground allspice
+- ½ teaspoon salt
+- 1 tablespoon baking powder
+- ½ teaspoon baking soda
+- ½ cup butter, softened
+- 1 cup white sugar
+- ⅓ cup brown sugar
+- 2 eggs, room temperature
+- ¾ cup milk
+- 1 cup pumpkin puree
+
+## Instructions 
+1. Preheat an oven to 375 degrees F (190 degrees C). Grease 24 muffin
+cups, or line with paper muffin liners. Sift together the flour, 1
+teaspoon cinnamon, nutmeg, ginger, clove, allspice, salt, baking
+powder, and baking soda; set aside.
+
+2. Beat 1/2 cup of butter, the white sugar, and brown sugar with an
+electric mixer in a large bowl until light and fluffy. The mixture should
+be noticeably lighter in color. Add the room-temperature eggs one at
+a time, allowing each egg to blend into the butter mixture before
+adding the next. Stir in the milk and pumpkin puree after the last egg.
+Stir in the flour mixture, mixing until just incorporated. Pour the
+batter into the prepared muffin cups.
+
+3. Bake in the preheated oven until golden and the tops spring back
+when lightly pressed, about 25 minutes. Cool in the pans for 5
+minutes before removing to cool completely on a wire rack.
+
+4. While the cupcakes are cooling, make the frosting by beating the
+cream cheese and 1/4 butter with an electric mixer in a bowl until
+smooth. Beat in the confectioners' sugar a little at a time until
+incorporated. Add the vanilla extract and 1 teaspoon ground
+cinnamon; beat until fluffy. Once the cupcakes are cool, frost with the
+cream cheese icing.
+
+## Suggested Frosting
+### [Cinnamon Cream Cheese Frosting](../frosting/cinnamon-cream-cheese-frosting.md) 
+
+## Nutrition
+**Serving:** 1 cupcake · 
+**Calories:** 244 cal · 
+**Carbohydrates:** 37.2g · 
+**Protein:** 2.9g · 
+**Fat:** 9.8g · 
+**Sodium:** 220.1mg · 
+ 
