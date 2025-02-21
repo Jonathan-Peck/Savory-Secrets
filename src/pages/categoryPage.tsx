@@ -15,7 +15,7 @@ type FeatureItem = {
 const FeatureList: FeatureItem[] = [
   {
     title: 'Chicken',
-    url: '/docs/category/chicken',
+    url: '/recipes/category/chicken',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
@@ -27,7 +27,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: 'Ground meat',
-    url: '/docs/category/ground-meat',
+    url: '/recipes/category/ground-meat',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
@@ -38,7 +38,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: 'Pork',
-    url: '/docs/category/pork',
+    url: '/recipes/category/pork',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
@@ -49,7 +49,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: 'Seafood',
-    url: '/docs/category/seafood',
+    url: '/recipes/category/seafood',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
@@ -60,7 +60,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: 'Steak',
-    url: '/docs/category/steak',
+    url: '/recipes/category/steak',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
@@ -71,7 +71,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: 'Dessert',
-    url: '/docs/category/dessert',
+    url: '/recipes/category/dessert',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
@@ -82,7 +82,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: 'Sides',
-    url: '/docs/category/sides',
+    url: '/recipes/category/sides',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>

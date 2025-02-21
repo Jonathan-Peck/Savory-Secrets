@@ -10,7 +10,7 @@ const config: Config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://github.com/Jonathan-Peck/Savory-Secrets',
+  url: 'https://your-docusaurus-site.example.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -35,34 +35,34 @@ const config: Config = {
     [
       'classic',
       {
-        docs: {
-          routeBasePath: 'docs',
-          path: 'docs',
-          sidebarPath: require.resolve('./sidebars.ts'),
-          lastVersion: 'current',
-          onlyIncludeVersions: ['current'],
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          // editUrl:
-          //   'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-        },
-        // blog: {
-        //   showReadingTime: false,
-        //   blogSidebarTitle: 'All posts',
-        //   blogSidebarCount: 'ALL',
-        //   feedOptions: {
-        //     type: ['rss', 'atom'],
-        //     xslt: true,
-        //   },
+        //  docs: {
+        //    routeBasePath: 'docs',
+        //    path: 'docs',
+        //    sidebarPath: require.resolve('./sidebars.ts'),
+        // //   lastVersion: 'current',
+        // //   onlyIncludeVersions: ['current'],
         //   // Please change this to your repo.
         //   // Remove this to remove the "edit this page" links.
-        //   editUrl:
-        //     'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-        //   // Useful options to enforce blogging best practices
-        //   onInlineTags: 'warn',
-        //   onInlineAuthors: 'warn',
-        //   onUntruncatedBlogPosts: 'warn',
-        // },
+        //   // editUrl:
+        //   //   'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+        //  },
+        // // blog: {
+        // //   showReadingTime: false,
+        // //   blogSidebarTitle: 'All posts',
+        // //   blogSidebarCount: 'ALL',
+        // //   feedOptions: {
+        // //     type: ['rss', 'atom'],
+        // //     xslt: true,
+        // //   },
+        // //   // Please change this to your repo.
+        // //   // Remove this to remove the "edit this page" links.
+        // //   editUrl:
+        // //     'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+        // //   // Useful options to enforce blogging best practices
+        // //   onInlineTags: 'warn',
+        // //   onInlineAuthors: 'warn',
+        // //   onUntruncatedBlogPosts: 'warn',
+        // // },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
@@ -87,6 +87,15 @@ const config: Config = {
   ],
 
   plugins:[
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'recipes',
+        path: 'recipes',
+        routeBasePath: 'recipes',
+        sidebarPath: require.resolve('./recipesSidebars.ts'),
+      }, 
+    ],
     [
       '@docusaurus/plugin-content-docs',
       {
@@ -130,18 +139,24 @@ const config: Config = {
         src: 'img/logo.svg',
       },
       items: [
-        {
-          type: 'docSidebar',
-          sidebarId: 'tutorialSidebar',
-          position: 'left',
-          label: 'Recipes',
-        },
+        // {
+        //   type: 'docSidebar',
+        //   sidebarId: 'tutorialSidebar',
+        //   position: 'left',
+        //   label: 'Recipes',
+        // },
         // {
         //   to: '/docs/Intro',    // ./docs/Intro.md
         //   label: 'Recipes',
         //   position: 'left',
         //   activeBaseRegex: `/docs/`,
         // },
+        {
+          to: '/recipes/category/recipes',  // ./docs-system/Intro.md
+          label: 'Recipes',
+          position: 'left',
+          activeBaseRegex: `/recipes/`,
+        },
         {
           to: '/breakfast/category/breakfast',    // ./docs-api/Intro.md
           //type: 'doc',
