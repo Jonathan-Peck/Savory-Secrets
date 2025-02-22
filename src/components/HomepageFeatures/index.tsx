@@ -15,7 +15,7 @@ type FeatureItem = {
 const FeatureList: FeatureItem[] = [
   {
     title: 'Breakfast',
-    url: '',
+    url: '/breakfast',
     img: '@site/static/img/breakfast.jpg',
     Svg: require('@site/static/img/undraw_breakfast.svg').default,
     description: (
@@ -48,7 +48,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: 'Dessert',
-    url: '',
+    url: '/desserts',
     img: '',
     Svg: require('@site/static/img/undraw_donut-love.svg').default,
     description: (
@@ -59,7 +59,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: 'Sides',
-    url: '',
+    url: '/sides',
     img: '',
     Svg: require('@site/static/img/undraw_chef.svg').default,
     description: (
