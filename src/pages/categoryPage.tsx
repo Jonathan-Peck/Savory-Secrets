@@ -70,6 +70,17 @@ const FeatureList: FeatureItem[] = [
     ),
   },
   {
+    title: 'Vegetarian',
+    url: '/docs/category/vegetarian',
+    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    description: (
+      <>
+        Extend or customize your website layout by reusing React. Docusaurus can
+        be extended while reusing the same header and footer.
+      </>
+    ),
+  },
+  {
     title: 'Dessert',
     url: '/docs/category/dessert',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,

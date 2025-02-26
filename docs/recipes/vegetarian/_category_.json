@@ -1,0 +1,8 @@
+{
+  "label": "Vegetarian",
+  "position": 8,
+  "link": {
+    "type": "generated-index",
+    "description": "no meat options"
+  }
+}
