@@ -8,7 +8,7 @@ import Layout from '@theme/Layout';
 type FeatureItem = {
   title: string;
   url: string;
-  Svg: React.ComponentType<React.ComponentProps<'svg'>>;
+  //Svg: React.ComponentType<React.ComponentProps<'svg'>>;
   description: ReactNode;
 };
 
@@ -16,7 +16,7 @@ const FeatureList: FeatureItem[] = [
   {
     title: 'Chicken',
     url: '/docs/category/chicken',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    //Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
         Discover a variety of delicious chicken dishes for every taste and occasion. 
@@ -28,7 +28,7 @@ const FeatureList: FeatureItem[] = [
   {
     title: 'Ground meat',
     url: '/docs/category/ground-meat',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    //Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
         Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
@@ -39,7 +39,7 @@ const FeatureList: FeatureItem[] = [
   {
     title: 'Pork',
     url: '/docs/category/pork',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+   // Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
         Extend or customize your website layout by reusing React. Docusaurus can
@@ -50,7 +50,7 @@ const FeatureList: FeatureItem[] = [
   {
     title: 'Seafood',
     url: '/docs/category/seafood',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    //Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
         Extend or customize your website layout by reusing React. Docusaurus can
@@ -61,7 +61,7 @@ const FeatureList: FeatureItem[] = [
   {
     title: 'Steak',
     url: '/docs/category/steak',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    //Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
         Extend or customize your website layout by reusing React. Docusaurus can
@@ -72,7 +72,7 @@ const FeatureList: FeatureItem[] = [
   {
     title: 'Vegetarian',
     url: '/docs/category/vegetarian',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    //Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
         Extend or customize your website layout by reusing React. Docusaurus can
@@ -83,7 +83,7 @@ const FeatureList: FeatureItem[] = [
   {
     title: 'Dessert',
     url: '/docs/category/dessert',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    //Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
         Extend or customize your website layout by reusing React. Docusaurus can
@@ -94,7 +94,7 @@ const FeatureList: FeatureItem[] = [
   {
     title: 'Sides',
     url: '/docs/category/sides',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    //Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
         Extend or customize your website layout by reusing React. Docusaurus can
@@ -104,12 +104,12 @@ const FeatureList: FeatureItem[] = [
   },
 ];
 
-function Feature({Svg, title, url, description}: FeatureItem) {
-// function Feature({title, Svg, description}: FeatureItem) {
+//function Feature({Svg, title, url, description}: FeatureItem) {
+function Feature({title, url, description}: FeatureItem) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
-      <a href={url}><Svg className={styles.featureSvg} role="img" /></a>
+       <a href={url}>{/*<Svg className={styles.featureSvg} role="img" />*/}</a> 
       </div>
       <div className="text--center padding-horiz--md">
         <a href={url}><Heading as="h3">{title}</Heading></a>

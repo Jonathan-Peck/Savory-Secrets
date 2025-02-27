@@ -8,7 +8,7 @@ type FeatureItem = {
   title: string;
   url: string;
   img: string;
-  Svg: React.ComponentType<React.ComponentProps<'svg'>>;
+  //Svg: React.ComponentType<React.ComponentProps<'svg'>>;
   description: ReactNode;
 };
 
@@ -17,7 +17,7 @@ const FeatureList: FeatureItem[] = [
     title: 'Breakfast',
     url: '/breakfast',
     img: '@site/static/img/breakfast.jpg',
-    Svg: require('@site/static/img/undraw_breakfast.svg').default,
+   // Svg: require('@site/static/img/undraw_breakfast.svg').default,
     description: (
       <>
         This will take you to any meal with the Breakfast tag
@@ -28,7 +28,7 @@ const FeatureList: FeatureItem[] = [
     title: 'Lunch',
     url: '',
     img: '',
-    Svg: require('@site/static/img/undraw_street-food.svg').default,
+   // Svg: require('@site/static/img/undraw_street-food.svg').default,
     description: (
       <>
       this will take you to any meal with the Lunch tag
@@ -38,8 +38,8 @@ const FeatureList: FeatureItem[] = [
   {
     title: 'Dinner',
     url: '/categoryPage',
-    img: '',
-    Svg: require('@site/static/img/undraw_barbecue.svg').default,
+    img: '/static/img/breakfast.jpg',
+    //Svg: require('@site/static/img/undraw_barbecue.svg').default,
     description: (
       <>
         This will take you to the another page where you can choose which meat you are working with.
@@ -50,7 +50,7 @@ const FeatureList: FeatureItem[] = [
     title: 'Dessert',
     url: '/desserts',
     img: '',
-    Svg: require('@site/static/img/undraw_donut-love.svg').default,
+   // Svg: require('@site/static/img/undraw_donut-love.svg').default,
     description: (
       <>
         This will take you to any recipe with the dessert tag.
@@ -61,7 +61,7 @@ const FeatureList: FeatureItem[] = [
     title: 'Sides',
     url: '/sides',
     img: '',
-    Svg: require('@site/static/img/undraw_chef.svg').default,
+    //Svg: require('@site/static/img/undraw_chef.svg').default,
     description: (
       <>
       this will take to you to any meal with the tag of sides
@@ -70,12 +70,13 @@ const FeatureList: FeatureItem[] = [
   },
 ];
 
-function Feature({Svg, title, url, description}: FeatureItem) {
-// function Feature({title, Svg, description}: FeatureItem) {
+
+//function Feature({Svg, title, url, description}: FeatureItem) {
+function Feature({title, url, description}: FeatureItem) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
-      <a href={url}><Svg className={styles.featureSvg} role="img" /></a>
+       <a href={url}><img className={styles.FeatureSvg} role="img"/> {/*<Svg className={styles.featureSvg} role="img" />*/}</a> 
       </div>
       <div className="text--center padding-horiz--md">
         <a href={url}><Heading as="h3">{title}</Heading></a>
