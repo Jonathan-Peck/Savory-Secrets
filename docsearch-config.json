@@ -1,0 +1,31 @@
+{
+    "index_name": "your_index_name",
+    "start_urls": [
+      {
+        "url": "https://savory-secrets-phi.vercel.app/",
+        "selectors_key": "docusaurus"
+      }
+    ],
+    "sitemaps": [
+      "https://your-domain.com/sitemap.xml"
+    ],
+    "selectors": {
+      "lvl0": {
+        "selector": ".navbar__link--active",
+        "global": true,
+        "default_value": "Documentation"
+      },
+      "lvl1": "header h1",
+      "lvl2": "article h2",
+      "lvl3": "article h3",
+      "lvl4": "article h4",
+      "lvl5": "article h5",
+      "text": "article p, article li, article table td:last-child"
+    },
+    "js_render": false,
+    "exclude_patterns": [],
+    "schedule": "at 01:00 every 1 day",
+    "app_id": "your_algolia_app_id",
+    "api_key": "your_admin_api_key"
+  }
+  

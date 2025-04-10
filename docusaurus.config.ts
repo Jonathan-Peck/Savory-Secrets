@@ -97,6 +97,13 @@ const config: Config = {
     //   }, 
     // ],
     [
+      '@docusaurus/plugin-sitemap',
+      {
+        changefreq: 'weekly',
+        priority: 0.5,
+      },
+    ],
+    [
       '@docusaurus/plugin-content-docs',
       {
         id: 'breakfast',
