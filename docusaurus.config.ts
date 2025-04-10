@@ -126,6 +126,16 @@ const config: Config = {
   ],
 
   themeConfig: {
+    algolia: {
+      appId: 'YOUR_APP_ID',
+      apiKey: 'YOUR_SEARCH_ONLY_API_KEY',
+      indexName: 'YOUR_INDEX_NAME',
+  
+      // Optional
+      contextualSearch: true,
+      searchParameters: {},
+      searchPagePath: 'search',
+    },
     metadata:[
       {name: 'keywords', content: 'dinner, chicken'}
     ],

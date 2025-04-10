@@ -15,8 +15,8 @@ type FeatureItem = {
 const FeatureList: FeatureItem[] = [
   {
     title: 'Breakfast',
-    url: '/breakfast',
-    img: '@site/static/img/breakfast.jpg',
+    url: '/breakfast/category/breakfast',
+    img: '',
    // Svg: require('@site/static/img/undraw_breakfast.svg').default,
     description: (
       <>
@@ -38,7 +38,8 @@ const FeatureList: FeatureItem[] = [
   {
     title: 'Dinner',
     url: '/categoryPage',
-    img: '/static/img/breakfast.jpg',
+    img: '',
+    // /static/img/breakfast.jpg
     //Svg: require('@site/static/img/undraw_barbecue.svg').default,
     description: (
       <>
@@ -48,7 +49,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: 'Dessert',
-    url: '/desserts',
+    url: '/desserts/category/desserts',
     img: '',
    // Svg: require('@site/static/img/undraw_donut-love.svg').default,
     description: (
@@ -59,7 +60,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: 'Sides',
-    url: '/sides',
+    url: '/sides/category/sides',
     img: '',
     //Svg: require('@site/static/img/undraw_chef.svg').default,
     description: (
@@ -72,11 +73,15 @@ const FeatureList: FeatureItem[] = [
 
 
 //function Feature({Svg, title, url, description}: FeatureItem) {
-function Feature({title, url, description}: FeatureItem) {
+function Feature({title, url, img, description}: FeatureItem) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
-       <a href={url}><img className={styles.FeatureSvg} role="img"/> {/*<Svg className={styles.featureSvg} role="img" />*/}</a> 
+       <a href={url}>
+       {img && <img className={styles.FeatureSvg} src={img} alt={title} role="img" />}
+        {/* <img className={styles.FeatureSvg} role="img"/> */}
+         {/*<Svg className={styles.featureSvg} role="img" />*/}
+        </a> 
       </div>
       <div className="text--center padding-horiz--md">
         <a href={url}><Heading as="h3">{title}</Heading></a>
