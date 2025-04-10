@@ -96,13 +96,13 @@ const config: Config = {
     //     sidebarPath: require.resolve('./recipesSidebars.ts'),
     //   }, 
     // ],
-    [
-      '@docusaurus/plugin-sitemap',
-      {
-        changefreq: 'weekly',
-        priority: 0.5,
-      },
-    ],
+    // [
+    //   '@docusaurus/plugin-sitemap',
+    //   {
+    //     changefreq: 'weekly',
+    //     priority: 0.5,
+    //   },
+    // ],
     [
       '@docusaurus/plugin-content-docs',
       {
