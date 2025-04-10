@@ -1,31 +1,43 @@
 {
-    "index_name": "your_index_name",
+    "index_name": "savory-secrets-phi",
+    "app_id": "SMBZOKW4XZ",
+    "api_key": "c59f61cd69a897108d152cfd4fd5c589",
     "start_urls": [
       {
-        "url": "https://savory-secrets-phi.vercel.app/",
+        "url": "https://savory-secrets-phi.vercel.app/docs/",
+        "selectors_key": "docusaurus"
+      },
+      {
+        "url": "https://savory-secrets-phi.vercel.app/breakfast/",
+        "selectors_key": "docusaurus"
+      },
+      {
+        "url": "https://savory-secrets-phi.vercel.app/desserts/",
+        "selectors_key": "docusaurus"
+      },
+      {
+        "url": "https://savory-secrets-phi.vercel.app/sides/",
         "selectors_key": "docusaurus"
       }
     ],
     "sitemaps": [
-      "https://your-domain.com/sitemap.xml"
+      "https://savory-secrets-phi.vercel.app/sitemap.xml"
     ],
     "selectors": {
       "lvl0": {
         "selector": ".navbar__link--active",
         "global": true,
-        "default_value": "Documentation"
+        "default_value": "Recipes"
       },
-      "lvl1": "header h1",
+      "lvl1": "article h1, header h1",
       "lvl2": "article h2",
       "lvl3": "article h3",
       "lvl4": "article h4",
       "lvl5": "article h5",
-      "text": "article p, article li, article table td:last-child"
+      "text": "article p, article li, article td:last-child"
     },
     "js_render": false,
     "exclude_patterns": [],
-    "schedule": "at 01:00 every 1 day",
-    "app_id": "your_algolia_app_id",
-    "api_key": "your_admin_api_key"
+    "schedule": "at 01:00 every 1 day"
   }
   

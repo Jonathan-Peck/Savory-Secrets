@@ -134,9 +134,9 @@ const config: Config = {
 
   themeConfig: {
     algolia: {
-      appId: 'YOUR_APP_ID',
-      apiKey: 'YOUR_SEARCH_ONLY_API_KEY',
-      indexName: 'YOUR_INDEX_NAME',
+      appId: 'SMBZOKW4XZ',
+      apiKey: 'c59f61cd69a897108d152cfd4fd5c589',
+      indexName: 'savory-secrets-phi',
   
       // Optional
       contextualSearch: true,
