@@ -73,23 +73,22 @@ const FeatureList: FeatureItem[] = [
 
 
 //function Feature({Svg, title, url, description}: FeatureItem) {
-function Feature({title, url, img, description}: FeatureItem) {
-  return (
-    <div className={clsx('col col--4')}>
-      <div className="text--center">
-       <a href={url}>
-       {img && <img className={styles.FeatureSvg} src={img} alt={title} role="img" />}
-        {/* <img className={styles.FeatureSvg} role="img"/> */}
-         {/*<Svg className={styles.featureSvg} role="img" />*/}
-        </a> 
+  function Feature({ title, url, img, description }: FeatureItem) {
+    console.log(`Rendering feature: ${title}, img: ${img}`);
+    return (
+      <div className={clsx('col col--4')}>
+        <div className="text--center">
+          <a href={url}>
+            {img && <img className={styles.FeatureSvg} src={img} alt={title} role="img" />}
+          </a>
+        </div>
+        <div className="text--center padding-horiz--md">
+          <a href={url}><Heading as="h3">{title}</Heading></a>
+          <p>{description}</p>
+        </div>
       </div>
-      <div className="text--center padding-horiz--md">
-        <a href={url}><Heading as="h3">{title}</Heading></a>
-        <p>{description}</p>
-      </div>
-    </div>
-  );
-}
+    );
+  }
 
 export default function HomepageFeatures(): ReactNode {
   return (
