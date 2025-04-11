@@ -26,7 +26,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: 'Lunch',
-    url: '',
+    url: '/categoryPage',
     img: '/img/breakfast.jpg',
    // Svg: require('@site/static/img/undraw_street-food.svg').default,
     description: (
@@ -74,22 +74,25 @@ const FeatureList: FeatureItem[] = [
 
 //function Feature({Svg, title, url, description}: FeatureItem) {
   function Feature({ title, url, img, description }: FeatureItem) {
-    console.log(`Rendering feature: ${title}, img: ${img}`);
+    console.log(`Rendering feature: ${title}, url: ${url}, img: ${img}`);
     return (
       <div className={clsx('col col--4')}>
         <div className="text--center">
-          <a href={url}>
-            {img && <img className={styles.FeatureSvg} src={img} alt={title} role="img" />}
-          </a>
+          {url ? (
+            <a href={url}>
+              {img && <img className={styles.FeatureSvg} src={img} alt={title} role="img" />}
+            </a>
+          ) : (
+            img && <img className={styles.FeatureSvg} src={img} alt={title} role="img" />
+          )}
         </div>
         <div className="text--center padding-horiz--md">
-          <a href={url}><Heading as="h3">{title}</Heading></a>
+          {url ? <a href={url}><Heading as="h3">{title}</Heading></a> : <Heading as="h3">{title}</Heading>}
           <p>{description}</p>
         </div>
       </div>
     );
   }
-
 export default function HomepageFeatures(): ReactNode {
   return (
     <section className={styles.features}>
