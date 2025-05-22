@@ -23,22 +23,22 @@ Hamn and Swiss Quiche
 - Salt and pepper to taste
 - 1-2 Tbsp butter
 
-1. **Preheat oven:**  
+1. **Preheat oven**  
 Preheat oven to 375°F.
 
-2. **Prepare ham:**  
+2. **Prepare ham**  
 Melt 1 Tbsp butter in a skillet over medium heat. Add ham and sauté until lightly browned (optional). Remove and set aside.
 
-3. **Cook zucchini:**  
+3. **Cook zucchini**  
 Melt 1 Tbsp butter in the skillet and add diced zucchini. Cook until slightly softened.
 
-4. **Mix wet ingredients:**  
+4. **Mix wet ingredients**  
 In a bowl, whisk together eggs, cream, milk, thyme, salt, and pepper.
 
-5. **Assemble quiche:**  
+5. **Assemble quiche**  
 In a lightly greased 8–9 inch pie dish, layer ham, most of the cheese, and zucchini. Pour in the egg mixture and top with the remaining cheese.
 
-6. **Bake:**  
+6. **Bake**  
 Bake in the preheated oven for 35–40 minutes, until a knife or toothpick inserted in the center comes out clean.
 
 ## Nutrition
