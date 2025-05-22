@@ -38,11 +38,20 @@ you will have left over seasoning
 :::
 
 ## Instructions
-1. Combine Worcestershire sauce and Dale’s steak seasoning.
-2. Place pork chops in a gallon ziplock bag. Pour marinade over pork chops. Seal bag and refrigerate at least 30 minutes.
-3. Combine all ingredients for the rub.
-4. Remove pork chops from the ziplock bag. Sprinkle with rub on both sides. Only use about one teaspoon per pork chop, depending on the size of your chops. You will have leftover rub.
-5. Prepare grill/smoker. Cook pork chops until internal temperature reaches 145ºF. 
+1. **Combine Marinade Ingredients**  
+Combine Worcestershire sauce and Dale’s steak seasoning.
+
+2. **Marinate the Pork Chops**  
+Place pork chops in a gallon ziplock bag. Pour marinade over pork chops. Seal bag and refrigerate at least 30 minutes.
+
+3. **Prepare the Rub**  
+Combine all ingredients for the rub.
+
+4. **Season the Pork Chops**  
+Remove pork chops from the ziplock bag. Sprinkle with rub on both sides. Only use about one teaspoon per pork chop, depending on the size of your chops. You will have leftover rub.
+
+5. **Grill or Smoke the Pork Chops**  
+Prepare grill or smoker. Cook pork chops until internal temperature reaches 145ºF.
 
 ## Nutrition
 **Serving:** 1serving · 

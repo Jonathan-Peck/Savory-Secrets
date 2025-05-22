@@ -26,12 +26,14 @@ Cinnamon Cornbread
 - 1/3 cup plus 2 tablespoons vegetable oil
 - 2 teaspoons cinnamon
 
-## Instructions 
-1. Preheat oven to 400 degrees. Using your hands or brush, heavily oil the sides and bottom of an 8 x 8-inch square pan or cast-iron skillet. Place pan or skillet in oven while you mix the cornbread.
+1. **Prepare the Pan**  
+Preheat oven to 400 degrees. Using your hands or a brush, heavily oil the sides and bottom of an 8 x 8-inch square pan or cast-iron skillet. Place the pan or skillet in the oven while you mix the cornbread.
 
-2. In large bowl whisk together flour, cornmeal, salt, sugar, brown sugar, cinnamon, baking powder and baking soda. Add eggs, milk, sour cream and vegetable oil. Whisk or stir until there are not any lumps.
+2. **Mix the Batter**  
+In a large bowl, whisk together flour, cornmeal, salt, sugar, brown sugar, cinnamon, baking powder, and baking soda. Add eggs, milk, sour cream, and vegetable oil. Whisk or stir until there are no lumps.
 
-3. Pour into the heated pan and cook at 400 degrees for 20 to 25 minutes or until a toothpick inserted in center comes out clean.
+3. **Bake the Cornbread**  
+Pour the batter into the heated pan and bake at 400 degrees for 20 to 25 minutes, or until a toothpick inserted in the center comes out clean.
 
 ## Nutrition
 **Serving:** 1 serving · 

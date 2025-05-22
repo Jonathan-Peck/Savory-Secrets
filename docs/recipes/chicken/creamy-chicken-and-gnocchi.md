@@ -28,18 +28,29 @@ Creamy Chicken and Gnocchi
 - 1 cup vegetable broth
 - 1/2 cup heavy cream
 - 1/4 cup Parmesan
+1. **Prepare the Chicken**  
+Dice the chicken breast into 1/2-inch cubes. Add the chicken to a bowl and top with Italian seasoning, 2 teaspoons smoked paprika, salt, and pepper. Mix until combined.
 
-## Instructions 
-1. Dice the chicken thighs into 2-inch pieces. Add the chicken to a bowl and top it with Italian seasoning, 2 teaspoons smoked paprika, salt, and pepper. Mix until combined.
+2. **Brown the Chicken**  
+Place a large, deep skillet over medium heat and add the cooking oil. Once shimmering, add the chicken and cook undisturbed until well browned, about 3 minutes. Stir and brown on the other side for about 3 more minutes. Remove the chicken from the pan when cooked through, leaving the fat in the pan.
 
-2. Place a large, deep skillet over medium heat and add the cooking oil. Once it's shimmering, add the chicken and cook undisturbed until well browned, about 3 minutes. Stir and brown on the other side, about 3 more minutes. Remove the chicken from the pan when it's cooked through and leave the fat in the pan.
+3. **Sauté Onion and Garlic**  
+Add the onion and garlic to the skillet. Sauté until the onions have softened and the garlic is fragrant, about 2 minutes.
 
-3. Add the onion and garlic to the skillet. Saute until the onions have softened and the garlic is fragrant, about 2 minutes
-4. Add the gnocchi and 1 tablespoon salted butter to the skillet and brown for 2 minutes.
-5. Add the spinach and the broth to the skillet. Cover the pan. Cook for 1 to 2 minutes until the spinach has wilted and the gnocchi has hydrated.
-6. Add the heavy cream, 1 teaspoon smoked paprika and the remaining 1 tablespoon of salted butter to the skillet. Stir until the butter has melted and the cream is steaming hot but not boiling.
-7. Take the skillet off the heat. Add the parmesan to the pan and stir until it melts, creating a velvety sauce.
-8. Finally, return the cooked diced chicken to the skillet. Mix gently into the gnocchi and cream sauce. If desired, garnish with parsley.
+4. **Brown the Gnocchi**  
+Add the gnocchi and 1 tablespoon salted butter to the skillet. Brown for 2 minutes.
+
+5. **Add Spinach and Broth**  
+Add the spinach and vegetable broth to the skillet. Cover the pan and cook for 1 to 2 minutes, until the spinach has wilted and the gnocchi has hydrated.
+
+6. **Add Cream and Butter**  
+Add the heavy cream, 1 teaspoon smoked paprika, and the remaining 1 tablespoon of salted butter to the skillet. Stir until the butter has melted and the cream is steaming hot but not boiling.
+
+7. **Add Parmesan**  
+Take the skillet off the heat. Add the Parmesan to the pan and stir until it melts, creating a velvety sauce.
+
+8. **Combine and Serve**  
+Return the cooked chicken to the skillet. Mix gently into the gnocchi and cream sauce. If desired, garnish with parsley.
 
 ## Nutrition
 **Serving:** 1.5 cups · 

@@ -30,17 +30,32 @@ Creamy Chicken and Orzo Skillet
 - 2 Tbsp salted butter
 - 1/4 cup parmesan
 
-## Instructions 
-1. Add the paprika, dried oregano, dried thyme, garlic powder, onion powder, salt, and pepper to a small bowl. Mix until combined.
-Blot the chicken thighs dry with a paper towel, then season both sides liberally with the seasoning blend.
-2. Heat a large deep skillet over medium and add the cooking oil. Add the seasoned chicken thighs and cook undisturbed until well browned, about 5 minutes. Flip and repeat on the other side. Remove the chicken from the pan.
-3. Turn the heat down to low, and add the onion and garlic. Saute until the onions are translucent, about 3 minutes.
-4. Add the orzo and vegetable broth to the skillet and stir well to help dissolve the crispy browned bits from the bottom of the pan. Return the chicken to the pan and nestle it down into the orzo.
-5. Place a lid on the skillet, turn the heat up to medium-high, and let the broth come to a full boil. Then turn the heat down to low. Let the skillet simmer for about 15 minutes or until most of the broth is absorbed.
-6. After about 15 minutes, the orzo should be tender and most of the broth absorbed, but there will still be a little sauce in the skillet. Remove the chicken from the skillet.
-7. Add the cream and the butter to the skillet. Stir and heat over low until the butter melts and the cream is hot.  
-8. Add the Parmesan and stir to combine.
-9. Finally, return the chicken to the skillet. If desired, garnish with parsley.  
+1. **Prepare the Seasoning**  
+    Add the paprika, dried oregano, dried thyme, garlic powder, onion powder, salt, and pepper to a small bowl. Mix until combined. Blot the chicken thighs dry with a paper towel, then season both sides liberally with the seasoning blend.
+
+2. **Brown the Chicken**  
+    Heat a large deep skillet over medium and add the cooking oil. Add the seasoned chicken thighs and cook undisturbed until well browned, about 5 minutes. Flip and repeat on the other side. Remove the chicken from the pan.
+
+3. **Sauté the Aromatics**  
+    Turn the heat down to low, and add the onion and garlic. Sauté until the onions are translucent, about 3 minutes.
+
+4. **Add Orzo and Broth**  
+    Add the orzo and vegetable broth to the skillet and stir well to help dissolve the crispy browned bits from the bottom of the pan. Return the chicken to the pan and nestle it down into the orzo.
+
+5. **Simmer**  
+    Place a lid on the skillet, turn the heat up to medium-high, and let the broth come to a full boil. Then turn the heat down to low. Let the skillet simmer for about 15 minutes or until most of the broth is absorbed.
+
+6. **Remove Chicken**  
+    After about 15 minutes, the orzo should be tender and most of the broth absorbed, but there will still be a little sauce in the skillet. Remove the chicken from the skillet.
+
+7. **Add Cream and Butter**  
+    Add the cream and the butter to the skillet. Stir and heat over low until the butter melts and the cream is hot.
+
+8. **Add Parmesan**  
+    Add the Parmesan and stir to combine.
+
+9. **Finish and Serve**  
+    Finally, return the chicken to the skillet. If desired, garnish with parsley.
 
 ## Nutrition
 **Serving:** 1 serving · 

@@ -26,8 +26,11 @@ Potato Sausage Foil Packs
 - Lemon wedges, optional
 
 ## Instructions 
-1. Cut peppers into 1-in. pieces; place in a large bowl. Toss with the next 7 ingredients. Divide mixture among 4 double thicknesses of heavy-duty foil (about 18x12 in.). Fold foil around mixture, sealing tightly.
-2. Grill, covered, over medium heat until potatoes are tender, 30-35 minutes. Open foil carefully to allow steam to escape. If desired, serve with lemon wedges.
+1. **Prepare the Ingredients**  
+Cut peppers into 1-inch pieces and place them in a large bowl. Toss with the next 7 ingredients. Divide the mixture among 4 double thicknesses of heavy-duty foil (about 18x12 inches). Fold the foil around the mixture, sealing tightly.
+
+2. **Grill the Foil Packs**  
+Grill, covered, over medium heat until potatoes are tender, 30-35 minutes. Open the foil carefully to allow steam to escape. If desired, serve with lemon wedges.
 
 
 ## Nutrition

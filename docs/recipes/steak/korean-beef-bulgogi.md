@@ -43,11 +43,20 @@ serve over white rice
 
 :::
 
-1. Start rice in a rice cooker or over the stove top. 
-2. Cook/steam vegetables, if cooking in a wok, once vegetables are fully cooked, remove them from heat
-3. Cook shaved steak (it cooks fast!)
-4. Add the vegetables back into the pan and pour the Bulgogi sauce on top. Stir to combine and coat in the sauce. Add the green onions. Cook for 1-2 minutes.
-5. Serve over rice. 
+1. **Prepare the Rice**  
+    Start rice in a rice cooker or on the stovetop.
+
+2. **Cook the Vegetables**  
+    Cook or steam your choice of vegetables. If using a wok, remove the vegetables from heat once fully cooked.
+
+3. **Sear the Steak**  
+    Cook the shaved steak in a hot pan or wok. It cooks quickly, so watch closely.
+
+4. **Combine and Sauce**  
+    Return the vegetables to the pan with the steak. Pour the Bulgogi sauce over everything, add the green onions, and stir to coat. Cook for 1-2 minutes.
+
+5. **Serve**  
+    Spoon the mixture over rice and enjoy.
  
 
 

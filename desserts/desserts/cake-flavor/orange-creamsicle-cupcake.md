@@ -26,15 +26,20 @@ Orange Creamsicle Cupcake
 - 1/2 teaspoon baking soda
 
 ## Instructions 
-1. Preheat the oven to 350 degrees Fahrenheit.
+1. **Preheat the Oven**  
+Preheat the oven to 350 degrees Fahrenheit.
 
-2. Prepare cupcake pans by lining them with 24 cupcake paper liners.
+2. **Prepare the Cupcake Pans**  
+Line 24 cupcake wells with paper liners.
 
-3. In a large bowl, beat the butter and sugar until smooth. Add the egg, extracts, orange zest, milk, orange juice and sour cream. Blend until smooth.
+3. **Mix Wet Ingredients**  
+In a large bowl, beat the butter and sugar until smooth. Add the eggs, vanilla extract, orange zest, milk, orange juice, and sour cream. Blend until smooth.
 
-4. Add the dry ingredients to a separate bowl and mix. Add the dry ingredients to the wet ingredients and beat slowly until well combined and only a few lumps remain.
+4. **Combine Dry and Wet Ingredients**  
+In a separate bowl, mix together the flour, baking powder, salt, and baking soda. Gradually add the dry ingredients to the wet mixture, beating slowly until just combined and only a few lumps remain.
 
-5. In lined cupcake pans, fill each cup ¾ full. Bake at 350°F for 25-30 minutes until a toothpick inserted in the center of the cupcake comes out clean. Set aside and allow to cool completely.
+5. **Fill and Bake**  
+Fill each lined cupcake cup ¾ full with batter. Bake at 350°F for 25-30 minutes, or until a toothpick inserted in the center comes out clean. Set aside and allow to cool completely.
 
 ## Suggested Frosting
 ### [Orange Buttercream Frosting](../frosting/orange-buttercream-frosting.md) 

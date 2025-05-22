@@ -22,11 +22,17 @@ Air Fryer Steak Bites
 - ¼ tsp sea salt to taste
 - ¼ tsp black pepper to taste
 
-## Instructions
-1. Preheat the air fryer at 400 degrees for 4 minutes.
-2. Add all of the ingredients to a mixing bowl and stir well until everything is coated in oil and seasoning.
-3. Transfer the raw steak bites to the air fryer.
-4. Air fry 10 to 20 minutes or until steak reaches desired done-ness, stopping twice throughout the air fry process to shake the drawer. I let mine go for about 12 to 15 minutes and they turn out perfectly tender and juicy.
+1. **Preheat the Air Fryer:**  
+Preheat the air fryer at 400 degrees for 4 minutes.
+
+2. **Season the Steak Bites:**  
+Add all of the ingredients to a mixing bowl and stir well until everything is coated in oil and seasoning.
+
+3. **Arrange in Air Fryer Basket:**  
+Transfer the raw steak bites to the air fryer.
+
+4. **Cook and Shake:**  
+Air fry 10 to 20 minutes or until steak reaches desired doneness, stopping twice throughout the air fry process to shake the drawer. I let mine go for about 12 to 15 minutes and they turn out perfectly tender and juicy.
 
 ## Nutrition
 **Serving:** 1of 4 · **Calories:** 281kcal · **Protein:** 21g · **Fat:** 22g
