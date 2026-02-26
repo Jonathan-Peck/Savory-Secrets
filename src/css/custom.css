@@ -32,6 +32,7 @@
 }
 .heroBanner {
   min-height: 420px;          /* controls overall height */
+  height: 450px;
   padding: 3rem 0;            /* reduce vertical padding */
   display: flex;
   align-items: center;        /* vertically center content */
