@@ -153,7 +153,7 @@ const config: Config = {
       title: 'Home',
       logo: {
         alt: 'Home Logo',
-        src: 'img/SavorySecretsBlankBG.png',
+        src: 'img/SSLogoRed.png',
       },
       items: [
         {
