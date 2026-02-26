@@ -147,13 +147,13 @@ const config: Config = {
       {name: 'keywords', content: 'dinner, chicken'}
     ],
     // Replace with your project's social card
-    image: 'img/docusaurus-social-card.jpg',
+    image: 'img/SavorySecretsBlankBG.png',
     navbar: {
       //hideOnScroll: true,
       title: 'Home',
       logo: {
         alt: 'Home Logo',
-        src: 'img/logo.svg',
+        src: 'img/SavorySecretsBlankBG.png',
       },
       items: [
         {
