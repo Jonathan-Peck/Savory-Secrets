@@ -16,7 +16,7 @@ const FeatureList: FeatureItem[] = [
   {
     title: 'Breakfast',
     url: '/breakfast/category/breakfast',
-    img: '/img/breakfast.jpg',
+    img: '/img/breakfast.png',
    // Svg: require('@site/static/img/undraw_breakfast.svg').default,
     description: (
       <>
@@ -27,7 +27,7 @@ const FeatureList: FeatureItem[] = [
   {
     title: 'Lunch',
     url: '/categoryPage',
-    img: '/img/breakfast.jpg',
+    img: '/img/lunch.png',
    // Svg: require('@site/static/img/undraw_street-food.svg').default,
     description: (
       <>
@@ -38,7 +38,7 @@ const FeatureList: FeatureItem[] = [
   {
     title: 'Dinner',
     url: '/categoryPage',
-    img: '/img/breakfast.jpg',
+    img: '/img/dinner.png',
     // /static/img/breakfast.jpg
     //Svg: require('@site/static/img/undraw_barbecue.svg').default,
     description: (
@@ -50,7 +50,7 @@ const FeatureList: FeatureItem[] = [
   {
     title: 'Dessert',
     url: '/desserts/category/desserts',
-    img: '/img/breakfast.jpg',
+    img: '/img/dessert.png',
    // Svg: require('@site/static/img/undraw_donut-love.svg').default,
     description: (
       <>
@@ -61,7 +61,7 @@ const FeatureList: FeatureItem[] = [
   {
     title: 'Sides',
     url: '/sides/category/sides',
-    img: '/img/breakfast.jpg',
+    img: '/img/sides.png',
     //Svg: require('@site/static/img/undraw_chef.svg').default,
     description: (
       <>
