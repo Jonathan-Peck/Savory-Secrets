@@ -35,7 +35,7 @@ function HomepageHeader() {
   return (
     <header className={clsx('hero', 'heroBanner', styles.heroBanner)}>
 
-      <div className="container">
+      {/* <div className="container">
         <Heading as="h1" className="hero__title">
           {siteConfig.title}
         </Heading>
@@ -51,7 +51,7 @@ function HomepageHeader() {
             go to Recipes
           </Link>
         </div>
-      </div>
+      </div> */}
     </header>
   );
 }
