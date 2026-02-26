@@ -31,13 +31,12 @@
   --ifm-background-color: #FAF9F6;
 }
 .heroBanner {
-  min-height: 420px;          /* controls overall height */
-  height: 450px;
-  padding: 3rem 0;            /* reduce vertical padding */
+  height: 480px;          /* controls overall height */
+  padding: 0;            /* reduce vertical padding */
   display: flex;
   align-items: center;        /* vertically center content */
   background-size: cover;
-  background-position: 50% 35%;
+  background-position: center;
   background-repeat: no-repeat;
   background-image: url('/img/SSHeroRed.png');
   color: white;
@@ -60,8 +59,9 @@
 }
 
 @media (max-width: 768px) {
-  .ssHeroBanner {
-    min-height: 300px;
-    padding: 2rem 1rem;
+  .HeroBanner {
+    height: 320px;
+    background-position: center;
+    padding: 0 1rem;
   }
 }
