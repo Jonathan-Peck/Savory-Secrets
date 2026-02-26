@@ -7,7 +7,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 const config: Config = {
   title: 'Savory Secrets',
   tagline: 'Keep it Secret, Keep it Savory',
-  favicon: 'img/SSLogoRed.png',
+  // favicon: 'img/SSLogoRed.png',
 
   // Set the production url of your site here
   url: 'https://your-docusaurus-site.example.com',
