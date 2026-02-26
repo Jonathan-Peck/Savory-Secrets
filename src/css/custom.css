@@ -30,7 +30,6 @@
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
   --ifm-background-color: #FAF9F6;
 }
-
 .heroBanner {
   padding: 6rem 0;
   background-size: cover;
@@ -38,14 +37,9 @@
   background-repeat: no-repeat;
   position: relative;
   color: white;
-}
-
-/* Light Mode */
-.heroBanner {
   background-image: url('/img/SSHeroRed.png');
 }
 
-/* Dark Mode */
 [data-theme='dark'] .heroBanner {
   background-image: url('/img/SSHeroOrange.png');
 }
