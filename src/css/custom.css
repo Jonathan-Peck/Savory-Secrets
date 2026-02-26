@@ -31,6 +31,25 @@
   --ifm-background-color: #FAF9F6;
 }
 
+.heroBanner {
+  padding: 6rem 0;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  position: relative;
+  color: white;
+}
+
+/* Light Mode */
+.heroBanner {
+  background-image: url('/img/SSHeroRed.png');
+}
+
+/* Dark Mode */
+[data-theme='dark'] .heroBanner {
+  background-image: url('/img/SSHeroOrange.png');
+}
+
 /* For readability concerns, you should choose a lighter palette in dark mode. */
 [data-theme='dark'] {
   --ifm-color-primary: #ee5542;
